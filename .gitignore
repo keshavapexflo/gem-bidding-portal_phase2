@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+downloads/
+bid_chunks.json
+chroma_db/
+static/
